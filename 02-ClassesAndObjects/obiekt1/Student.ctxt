@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #BlueJ class context
 comment0.target=Student
 comment1.params=
@@ -15,3 +16,22 @@ comment6.target=void\ displayStudentCardInfo()
 comment7.params=args
 comment7.target=void\ main(java.lang.String[])
 numComments=8
+=======
+#BlueJ class context
+comment0.target=Student
+comment1.params=
+comment1.target=void\ sayHello()
+comment2.params=
+comment2.target=void\ displayName()
+comment3.params=
+comment3.target=void\ displayAge()
+comment4.params=
+comment4.target=void\ displayStudentInfo()
+comment5.params=
+comment5.target=void\ changeIdValidation()
+comment6.params=
+comment6.target=void\ displayStudentCardInfo()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
+>>>>>>> 30462799668de5d314787cd227186c1c69ac3c3e
