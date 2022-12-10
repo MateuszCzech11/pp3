@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 
-import javax.xml.crypto.dsig.spec.C14NMethodParameterSpec;
-
 public class Library {
     ArrayList<Book> contents = new ArrayList<Book>();
 
